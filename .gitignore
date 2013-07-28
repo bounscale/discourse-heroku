@@ -78,3 +78,5 @@ config/version.rb
 
 # ignore the Ruby Version manager (rvm) file
 .rvmrc
+
+vendor/bundle
